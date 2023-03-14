@@ -1,0 +1,25 @@
+{
+   "title":"[Hassen] The Persuaded Team Ace",
+   "description":"",
+   "author":"Hassen",
+   "artist":"Hassen",
+   "cover":"https://i.imgur.com/YUNMqFZ.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/6brZ1jn"
+         },
+         "last_updated":1624606143,
+         "title":"The Persuaded Team Ace",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nP93LRs"
+         },
+         "last_updated":1624606143,
+         "title":"The Persuaded Team Ace 2",
+         "volume":"2"         
+      }
+   }
+}
